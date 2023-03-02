@@ -15,7 +15,6 @@ function HandleVideo(){
    
         })
     function closeVideo(){
-
         popupVideo.style.visibility='hidden';
         iframe.style.visibility='hidden';
         videoplay.setAttribute('src','');
